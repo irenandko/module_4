@@ -10,11 +10,16 @@ h1 {
     border-radius: 25px;
     font-size: 24px;
     padding: 20px;
-    margin-top: 80px;
+    margin-top: 20px;
     margin-left: 20px
 }
 
-
-
+.joke {
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 2px 2px  #009900;
+    color: black;
+}
 
 
